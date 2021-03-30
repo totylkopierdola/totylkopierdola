@@ -9,11 +9,12 @@
 </p>
 
 
-### I'm working with :eight_pointed_black_star: 
+
 <div align="center">
-|<img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/html.png" width=60> | <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/css.png" width=60> | <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/js.png" width=60> |<img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/react.png" width=60>| <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/ps.png" width=60>|<img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/vsc.png" width=60>|
-|:---:|:---:|:---:|:---:|:---:|:---:|
+  ### I'm working with :eight_pointed_black_star: 
 </div>
+|<img align="center" src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/html.png" width=60> | <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/css.png" width=60> | <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/js.png" width=60> |<img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/react.png" width=60>| <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/ps.png" width=60>|<img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/vsc.png" width=60>|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 <div align="center">
   <a href="https://www.facebook.com/pierdolaq/">
