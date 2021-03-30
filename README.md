@@ -1,4 +1,5 @@
-## Hello, I'm Mateusz :v:, 
+<div align="center">
+  Hello, I'm Mateusz :v:, 
 
 <p align="center">
   <img src="https://media2.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width=300>
@@ -40,4 +41,6 @@
   </a><br/><br/>
   <p align="center">
   </p>
+</div>
+
 </div>
