@@ -11,7 +11,7 @@
 
 
 <div align="center">
-  ### I'm working with :eight_pointed_black_star: 
+  <h1> I'm working with :eight_pointed_black_star: </h1>
   <br>
 
 <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/html.png" width=60>
@@ -22,6 +22,8 @@
 <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/vsc.png" width=60>
 
 </div>
+
+<br><br>
 
 <div align="center">
   <a href="https://www.facebook.com/pierdolaq/">
