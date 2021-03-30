@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Hello, I'm Mateusz :v: </h1> 
 
-<p align="center">
+<p>
   <img src="https://media2.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width=300>
   <br><br>
   <samp>
@@ -9,9 +9,6 @@
   </samp>
 </p>
 
-
-
-<div align="center">
   <h1> I'm working with :eight_pointed_black_star: </h1>
   <br>
 
@@ -22,11 +19,10 @@
 <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/ps.png" width=60>
 <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/vsc.png" width=60>
 
-</div>
 
 <br><br>
 <hr>
-<div align="center">
+
   <a href="https://www.facebook.com/pierdolaq/">
     <img align="left" alt="fb" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" />
   </a>
@@ -38,9 +34,6 @@
   </a>
   <a href="https://steamcommunity.com/id/shorstky7/">
     <img align="left" alt="" width="21px" src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/steam.png" />
-  </a><br/><br/>
-  <p align="center">
-  </p>
-</div>
-
+  </a>
+  <br><br>
 </div>
