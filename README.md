@@ -24,7 +24,7 @@
 </div>
 
 <br><br>
-
+<hr>
 <div align="center">
   <a href="https://www.facebook.com/pierdolaq/">
     <img align="left" alt="fb" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" />
