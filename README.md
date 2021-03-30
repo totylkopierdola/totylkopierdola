@@ -9,7 +9,7 @@
 </p>
 
 ### I'm working with :eight_pointed_black_star: 
-|<img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/html.png" width=60> | <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/css.png" width=60> | <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/js.png" width=60> |<img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/ps.png" width=60>| <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/vsc.png" width=60>|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqCga05i6v6rhqKhZALTzuqHL5vLUp4IQd7W2RbkBbDWI7HjFxq2NmKokKXBzG5kLFIw&usqp=CAU" width=60>|<img src="https://www.flaticon.com/svg/vstatic/svg/753/753244.svg?token=exp=1617118483~hmac=b5408b6abe9f6e9a032e02fd4eaa2a7e" width=60>|
+|<img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/html.png" width=60> | <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/css.png" width=60> | <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/js.png" width=60> |<img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/react.png" width=60>| <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/ps.png" width=60>|<img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/vsc.png" width=60>|<img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/vsc.png" width=60>|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
