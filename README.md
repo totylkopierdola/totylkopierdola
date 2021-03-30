@@ -23,7 +23,7 @@
   <img align="left" alt="insta" width="21px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1617122217~hmac=7b6f06ef0b87b80fe97d4513059d5026" />
 </a>
 <a href="https://steamcommunity.com/id/shorstky7/">
-  <img align="left" alt="steam profile" width="21px" src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/steam.png" />
+  <img align="left" alt="" width="21px" src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/steam.png" />
 </a><br/><br/>
 <p align="center">
 </p>
