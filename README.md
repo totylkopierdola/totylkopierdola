@@ -33,7 +33,7 @@
     <img alt="insta" width="21px" src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/instagram.png" />
   </a>
   <a href="https://steamcommunity.com/id/shorstky7/">
-    <img alt="" width="21px" src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/steam.png" />
+    <img alt="" width="21px" src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/steam-logo%20(1).png" />
   </a>
   <br><br>
 </div>
