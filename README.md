@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://i.imgur.com/StDiKpa.jpg">
   <h1> Hello, I'm Mateusz :v: </h1> 
 
 <p>
