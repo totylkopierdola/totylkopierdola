@@ -18,6 +18,7 @@
 <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/react.png" width=90>
 <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/ps.png" width=60>
 <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/vsc.png" width=60>
+<img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/87bc170c983e1add6bd4a614ccab1b758a010f9a/img/typescript.svg" width=60>
 
 
 <br><br>
