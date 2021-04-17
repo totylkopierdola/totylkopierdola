@@ -17,8 +17,9 @@
 <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/js.png" width=60>
 <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/6d9aad467f6db0884de1a3501c96a4bd31ef1c9a/img/react.svg" width=60>
 <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/ps.png" width=60>
-<img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/vsc.png" width=60>
 <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/87bc170c983e1add6bd4a614ccab1b758a010f9a/img/typescript.svg" width=60>
+<img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/vsc.png" width=60>
+
 
 
 <br><br>
