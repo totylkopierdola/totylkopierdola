@@ -30,7 +30,7 @@
     <img alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
   </a>
   <a href="https://www.instagram.com/totylkopierdola/">
-    <img alt="insta" width="21px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1617122217~hmac=7b6f06ef0b87b80fe97d4513059d5026" />
+    <img alt="insta" width="21px" src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/instagram.png" />
   </a>
   <a href="https://steamcommunity.com/id/shorstky7/">
     <img alt="" width="21px" src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/steam.png" />
