@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/vsc.png" width=100%>
+  <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/vsc.png">
   <h1> Hello, I'm Mateusz :v: </h1> 
 
 <p>
