@@ -28,7 +28,7 @@
   &nbsp;
   <br />
   
-  <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/vsc.png" width=60>
+  <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/vsc.png" width=55>
   &nbsp;
   <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/7e744dad26824b0949474b5c4b23cd9da6571f31/img/sass.svg" width=60>
 
