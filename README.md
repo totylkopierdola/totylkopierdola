@@ -5,7 +5,7 @@
   <img src="https://media2.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width=300>
   <br><br>
   <samp>
-   Enthusiastic IT student  with a passion for web development, looking forward to working alongside more experienced devs to broaden my skills  :computer:
+   Enthusiastic IT student passionate about web development, looking forward to working alongside more experienced devs to broaden my skills  :computer:
   </samp>
 </p>
 
