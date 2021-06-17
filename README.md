@@ -50,5 +50,6 @@
     <img alt="" width="21px" src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/9c6ec7af99a8db067f6a9a4192b4253abdf2cb76/img/steam-logo.svg" />
   </a>
   <br><br>
-  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pl_PL" data-type="vertical" data-theme="dark" data-vanity="mateuszkudraj"><a class="LI-simple-link" href='https://pl.linkedin.com/in/mateuszkudraj?trk=profile-badge'>Mateusz Kudraj</a></div>
 </div>
+
+  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pl_PL" data-type="vertical" data-theme="dark" data-vanity="mateuszkudraj"><a class="LI-simple-link" href='https://pl.linkedin.com/in/mateuszkudraj?trk=profile-badge'>Mateusz Kudraj</a></div>
