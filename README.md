@@ -51,5 +51,3 @@
   </a>
   <br><br>
 </div>
-
-  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pl_PL" data-type="vertical" data-theme="dark" data-vanity="mateuszkudraj"><a class="LI-simple-link" href='https://pl.linkedin.com/in/mateuszkudraj?trk=profile-badge'>Mateusz Kudraj</a></div>
