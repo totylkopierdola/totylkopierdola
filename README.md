@@ -28,9 +28,13 @@
   &nbsp;
   <br />
   
+  <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/5c499419490567ad2d93d086699145a7511a75c5/img/angular.svg" width=60>
+  &nbsp;
   <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/main/img/vsc.png" width=55>
   &nbsp;
   <img src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/7e744dad26824b0949474b5c4b23cd9da6571f31/img/sass.svg" width=60>
+  
+  
 
 
 
@@ -48,9 +52,6 @@
   </a>
   <a href="https://steamcommunity.com/id/shorstky7/">
     <img alt="" width="21px" src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/9c6ec7af99a8db067f6a9a4192b4253abdf2cb76/img/steam-logo.svg" />
-  </a>
-  <a href="https://steamcommunity.com/id/shorstky7/">
-    <img alt="" width="21px" src="  https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/5c499419490567ad2d93d086699145a7511a75c5/img/angular.svg" />
   </a>
   
   <br><br>
