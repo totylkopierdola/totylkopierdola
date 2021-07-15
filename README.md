@@ -49,5 +49,9 @@
   <a href="https://steamcommunity.com/id/shorstky7/">
     <img alt="" width="21px" src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/9c6ec7af99a8db067f6a9a4192b4253abdf2cb76/img/steam-logo.svg" />
   </a>
+  <a href="https://steamcommunity.com/id/shorstky7/">
+    <img alt="" width="21px" src="  https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/5c499419490567ad2d93d086699145a7511a75c5/img/angular.svg" />
+  </a>
+  
   <br><br>
 </div>
