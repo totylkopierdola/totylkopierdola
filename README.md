@@ -4,9 +4,6 @@
 <p>
   <img src="https://media2.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width=300>
   <br><br>
-  <samp>
-   Enthusiastic IT student passionate about web development, looking forward to working alongside more experienced devs to broaden my skills  :computer:
-  </samp>
 </p>
 
   <h1> I'm working with :eight_pointed_black_star: </h1>
