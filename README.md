@@ -36,20 +36,5 @@
 
 
 <br><br>
-<hr>
 
-  <a href="https://www.facebook.com/pierdolaq/">
-    <img alt="fb" width="21px" src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/9c6ec7af99a8db067f6a9a4192b4253abdf2cb76/img/facebook.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/mateusz-kudraj-ab606a1ba/">
-    <img alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
-  </a>
-  <a href="https://www.instagram.com/totylkopierdola/">
-    <img alt="insta" width="21px" src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/9c6ec7af99a8db067f6a9a4192b4253abdf2cb76/img/instagram.svg" />
-  </a>
-  <a href="https://steamcommunity.com/id/shorstky7/">
-    <img alt="" width="21px" src="https://raw.githubusercontent.com/totylkopierdola/totylkopierdola/9c6ec7af99a8db067f6a9a4192b4253abdf2cb76/img/steam-logo.svg" />
-  </a>
-  
-  <br><br>
 </div>
