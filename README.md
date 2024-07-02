@@ -6,7 +6,7 @@ I'm Mateusz, a self-motivated tech enthusiast and web developer.
 </p>
 
 <h4 align="center">
-💻 frontend developer <a href="https://www.linkedin.com/in/machnet/">@Machnet</a> | 🌱 building <a href="https://github.com/totylkopierdola/bookApp">Rentify</a> | 💬 connect <a href="mailto:kudraj.mateusz@gmail.com">kudraj.mateusz@gmail.com</a>
+💻 frontend developer <a href="https://www.linkedin.com/in/machnet/">SoftServe</a> | 🌱 building <a href="https://github.com/totylkopierdola/bookApp">Rentify</a> | 💬 connect <a href="mailto:kudraj.mateusz@gmail.com">kudraj.mateusz@gmail.com</a>
 </h4>
 
 <p  align="center">
