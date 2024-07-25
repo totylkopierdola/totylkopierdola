@@ -2,7 +2,7 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I'm Mateusz, a self-motivated tech enthusiast and web developer.
+I'm Mateusz, a self-motivated tech enthusiast and web developer. 
 </p>
 
 <h4 align="center">
